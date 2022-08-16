@@ -7,3 +7,6 @@ some work here
 ferhat
 
 kaplan
+
+
+i also edited page 2 and commit it
